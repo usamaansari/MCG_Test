@@ -43,13 +43,11 @@ function AboutComponent({
                 >
                   {description}
                 </p>
-                <div className='home_button'>
                 <Link to='/sign-up'>
                   <Button buttonSize='btn--wide' buttonColor='blue'>
                     {buttonLabel}
                   </Button>
                 </Link>
-                </div>
               </div>
             </div>
             <div className='col'>

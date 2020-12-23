@@ -6,8 +6,8 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className = 'hero-container'>
-            <video src = "/videos/ClimateHub_Home.mp4" autoPlay loop muted />
-            <h1>UBCO Climate Hub</h1>
+            <video src = "/videos/video_home.mp4" autoPlay loop muted />
+            <h1>Modular Clinton Global</h1>
             <p>Creative solutions, Creative results</p>
             <div className="hero-btns">
                 <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>

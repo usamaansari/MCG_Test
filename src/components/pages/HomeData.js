@@ -3,12 +3,12 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     topLine: '',
-    headline: 'Climate Change is real',
+    headline: 'Amazing Things For You',
     description:
-      'Climate Change is the defining issue of our time and we are at a defining moment. From shifting weather patterns that threaten food production, to rising sea levels that increase the risk of catastrophic flooding, the impacts of climate change are global in scope and unprecedented in scale. Without drastic action today, adapting to these impacts in the future will be more difficult and costly.',
+      'McGili Canada is AI and Blockchain-driven Company whose mission is to shape the supply chain industry in the coming Physical Internet Era and turn the 60-year-old traditional container into modular and smart container.  To achieve the vision, we are designing the modular hardware system: Logistics Innovation Unit Container (LIUC) and respective software (AI, Blockchain) to lead the new logistics landscape with great efficiency and visibility.',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: 'images/Home/Home_1.jpg',
+    img: 'images/Home/HomePage_Img1.jpg',
     alt: 'Vaccine Container Supply'
   };
   

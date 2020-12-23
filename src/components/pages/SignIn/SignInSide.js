@@ -19,7 +19,7 @@ function Copyright() {
     <Typography variant="body2" color="textSecondary" align="center">
       {'Copyright © '}
       <Link color="inherit" href="https://material-ui.com/">
-        UBCO ClimateHub 
+        MCG Website
       </Link>{' '}
       {new Date().getFullYear()}
       {'.'}
@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
     height: '100vh',
   },
   image: {
-    backgroundImage: 'url(/images/SignIn/Signup_ClimateHub2.jpg)', //'url(https://source.unsplash.com/random)',
+    backgroundImage: 'url(/images/SignIn/Signup_Background.jpg)', //'url(https://source.unsplash.com/random)',
     backgroundRepeat: 'no-repeat',
     backgroundColor:
       theme.palette.type === 'light' ? theme.palette.grey[50] : theme.palette.grey[900],

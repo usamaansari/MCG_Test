@@ -32,7 +32,7 @@ function Navbar() {
            <nav className="navbar">
                <div class="navbar-container">
                    <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                   <img src= '/images/Home/UBCOClimateHub_Logo.png' width="200" height="200" />   {/*<i className= 'fas fa-globe'/>*/}
+                   <img src= '/images/Home/MCG_Logo.png' width="100" height="30" />   {/*<i className= 'fas fa-globe'/>*/}
                    </Link>
                    <div className='menu-icon' onClick={handleClick}>
                        <i className={click ? 'fas fa-times': 'fas fa-bars'} />
@@ -51,11 +51,11 @@ function Navbar() {
                        </li>
                      {/* 
                        <li className='nav-item'>
-                           <Link to='/projects' className='nav-links' onClick={closeMobileMenu}>
-                               Projects
+                           <Link to='/products' className='nav-links' onClick={closeMobileMenu}>
+                               Products
                            </Link>
                        </li>
-                     */}
+                       */}
                       
                        <li className='nav-item'>
                            <Link to='/dashboard' className='nav-links' onClick={closeMobileMenu}>

@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the UBCO ClimateHub to save our planet
+          Join the Supply chain of smart vaccine delivery
         </p>
         <p className='footer-subscription-text'>
           You can email us at any time.
@@ -64,13 +64,13 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-            <img src= '/images/Home/UBCOClimateHub_Logo.png' width="200" height="200" /> 
+            <img src= '/images/Home/MCG_Logo.png' width="100" height="30" /> 
               {/*<i class='fas fa-globe' />*/}
             </Link>
             
             
           </div>
-          <small class='website-rights'>UBCO Climate Hub © 2020</small>
+          <small class='website-rights'>MCG © 2020</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
